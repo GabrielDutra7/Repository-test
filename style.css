@@ -1,4 +1,15 @@
- p {
+ boddy {
     text-align: center;
-    background: #f50606;
+    background: #0e0d0d;
 }  
+
+
+p {  text-align: center;
+
+}
+
+#lema{
+    font-size: 25px;
+   color: #f50606; #12ebef
+
+}
