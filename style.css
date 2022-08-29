@@ -2,10 +2,13 @@
     text-align: center;
     background: #0e0d0d;
 }  
+h1{
+    color: white;
+}
 
-
-p {  text-align: center;
-
+p {  
+    text-align: center;
+    color: white;
 }
 
 #lema{
