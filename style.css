@@ -17,3 +17,12 @@ p {
    color: #f50606;
 
 }
+
+h2 {
+    color:white;
+}
+
+.itens {
+    color: white;
+    font-style: italic;
+}
