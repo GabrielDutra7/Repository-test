@@ -21,7 +21,6 @@ p {
 h2 {
     color:white;
 }
-
 .itens {
     color: white;
     font-style: italic;
@@ -35,3 +34,11 @@ h2 {
     text-align: center;
 }
 
+ul{  
+ display: inline-block;
+  vertical-align: top
+}
+
+#imagempart2 {
+    width: 50%
+}
