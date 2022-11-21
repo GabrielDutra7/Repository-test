@@ -1,5 +1,5 @@
 header {
-  background: rgb(230, 194, 36);
+  background: rgb(241, 6, 26);
 }
 
 .caixa {
@@ -31,7 +31,7 @@ nav li {
 
 nav a {
   text-transform: uppercase;
-  color: blue;
+  color: rgb(241, 241, 248);
   font-weight: bold;
   font-size: 20px;
   text-decoration: none;
